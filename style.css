@@ -1,0 +1,42 @@
+*{
+    background-color:aliceblue;
+}
+h1{
+    text-align: center;
+}
+.h{
+    background-color: rgb(25, 147, 212);
+    text-align: center;
+    color: aliceblue;
+    margin: auto;
+    width: 100%;
+    overflow-y: auto;
+    height: 20rem;
+}
+.left{
+    float: left;
+    clear: both;
+    margin: 8px;
+    padding: 0px 6px;
+    border-radius: 7px;
+    background-color: rgb(21, 194, 99);
+}
+.right{
+    float: right;
+    clear: both;
+    margin: 8px;
+    padding: 0px 6px;
+    border-radius: 7px;
+    background-color: rgb(21, 194, 99);
+}
+.b{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+.text{
+    width: 29rem;
+    border-radius: 8px;
+    margin: 3px -51px;
+    margin-left: -1px;
+}
