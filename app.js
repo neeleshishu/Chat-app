@@ -1,4 +1,4 @@
-const socket = io('http://localhost:8000');
+const socket = io('http://localhost:8080');
 
 const messagecontainer = document.getElementById('messagecontainer');
 const text = document.getElementById('text');
